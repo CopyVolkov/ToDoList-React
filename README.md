@@ -28,3 +28,5 @@ Fetch API personalizada
 Create React App
 
 JSON Server / Backend local para pruebas
+
+Ejemplo de uso: https://www.linkedin.com/feed/update/urn:li:activity:7329675986277445632/
